@@ -6,6 +6,10 @@ institution: Princeton University
 e-mail: ek8842@princeton.edu
 github-username: ekauffma
 photo: "/assets/images/trainees/Elliott-Kauffman.jpg"
+start_date: "2023-07-01"
+end_date: "2025-06-30"
+training_modules:
+- GPU training module
 shortname: ekauffma
 title: 
 website: 
@@ -43,7 +47,6 @@ My project will focus on the CICADA anomaly detection trigger. CICADA is trained
 * Jennifer Ngadiuba (FNAL)
 * Jannicke Pearkes (University of Colorado, Boulder)
 
-### Traineeship dates
-January 2024 - Present
+
 
 
